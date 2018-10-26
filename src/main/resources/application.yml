@@ -1,0 +1,9 @@
+apartments: 
+   baseUrl: https://www.apartments.com/
+   houseUrlField : data-url
+   locationField: location
+   rentField: altRentDisplay
+   availabilityField: availabilityDisplay
+
+import: 
+   csvlocation: C:\Java Workspace\data_scrapping\src\main\resources\zipcode.csv 
